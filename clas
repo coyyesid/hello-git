@@ -1,0 +1,31 @@
+[33me314014[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m HEAD@{0}: commit: login
+[33m89f2f61[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{1}: checkout: moving from master to login
+[33m89f2f61[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{2}: checkout: moving from 9b18cb0116f95a94a689f164a475b24b2f3e16a9 to master
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{3}: checkout: moving from master to tags/clase_1
+[33m89f2f61[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{4}: commit: este es mi quinto commit
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{5}: reset: moving to 9b18cb0
+[33m3d45af2[m HEAD@{6}: checkout: moving from 9b18cb0116f95a94a689f164a475b24b2f3e16a9 to master
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{7}: checkout: moving from master to 9b18cb0
+[33m3d45af2[m HEAD@{8}: checkout: moving from 9b18cb0116f95a94a689f164a475b24b2f3e16a9 to master
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{9}: checkout: moving from master to 9b18cb0
+[33m3d45af2[m HEAD@{10}: checkout: moving from 9b18cb0116f95a94a689f164a475b24b2f3e16a9 to master
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{11}: checkout: moving from master to 9b18cb0
+[33m3d45af2[m HEAD@{12}: reset: moving to 3d45af2
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{13}: checkout: moving from 9b18cb0116f95a94a689f164a475b24b2f3e16a9 to master
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{14}: checkout: moving from 3d45af27932968885070e295e97697dd087d6d45 to 9b18cb0
+[33m3d45af2[m HEAD@{15}: reset: moving to 3d45af2
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{16}: checkout: moving from 5a4c8fa392b03b989c327b7e4db802caf442ecf7 to 9b18cb0
+[33m5a4c8fa[m HEAD@{17}: checkout: moving from 9b18cb0116f95a94a689f164a475b24b2f3e16a9 to 5a4c8fa392b03b989c327b7e4db802caf442ecf7
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{18}: checkout: moving from 5a4c8fa392b03b989c327b7e4db802caf442ecf7 to 9b18cb0116f95a94a689f164a475b24b2f3e16a9
+[33m5a4c8fa[m HEAD@{19}: checkout: moving from master to 5a4c8fa392b03b989c327b7e4db802caf442ecf7
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{20}: reset: moving to HEAD
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{21}: reset: moving to HEAD
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{22}: reset: moving to HEAD
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{23}: reset: moving to HEAD
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{24}: reset: moving to HEAD
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{25}: reset: moving to HEAD
+[33m9b18cb0[m[33m ([m[1;33mtag: clase_1[m[33m)[m HEAD@{26}: commit: nuevo archivo
+[33mdca52e4[m HEAD@{27}: commit: se edito el print
+[33m3d45af2[m HEAD@{28}: reset: moving to HEAD
+[33m3d45af2[m HEAD@{29}: commit: Este es mi segundo commit
+[33m5a4c8fa[m HEAD@{30}: commit (initial): Este es mi primer commit
